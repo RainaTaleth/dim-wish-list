@@ -1,4 +1,4 @@
-title:ArtsSuperAwesomeWishlist
+title:RainasSuperAwesomeWishlist
 
 // The Inquisitor (Adept) ()
 dimwishlist:item=2307365&perks=839105230,791862061,1428297954,47981717
